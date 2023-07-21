@@ -1,5 +1,5 @@
 # Wedding-Photo-App
-a full stack app for wedding photos
+A full stack app for wedding photos
 
 # Features
 1. Upload Photos
@@ -7,7 +7,7 @@ a full stack app for wedding photos
 3. Guest Book
 
 # Tech Stack
-1. React Native
+1. React Native (Expo ?)
 2. Mongo
 3. Mongoose
 4. TypeScript
