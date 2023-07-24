@@ -10,10 +10,10 @@
 
 - ### App
 - Wedding Connect (QR Code? Dynamic Code? Password?)
-- Footer/NavBar (Gallery<sup>1</sup>/Upload Pics<sup>2</sup>/Chat<sup>3</sup>/Guest Book<sup>4</sup>)
+- Footer/NavBar (Galleryc/Upload Pics<sup>2</sup>/Chat<sup>3</sup>/Guest Book<sup>4</sup>)
 - #### Features:
-  - 1 Gallery Feature
-  - 2 Upload Pics Feature
-  - 3 Chat Feature
-  - 4 Guest Book 
+  - <sup>1</sup> Gallery Feature
+  - <sup>2</sup> Upload Pics Feature
+  - <sup>3</sup> Chat Feature
+  - <sup>4</sup> Guest Book 
 - #### Connect to User Camera
