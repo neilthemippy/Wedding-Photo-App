@@ -1,18 +1,19 @@
 # Features for MVP
 
-- Landing page (Info)(Login)
-  - Info
+- ### Landing page (Info)(Login)
+  - #### Info
     - Pricing Structure
     - FAQ
-  - Registration
+  - #### Registration
     - (Authentication/sign up) (for Wedding Owner)
+    - Login if already signed up
 
-- App
+- ### App
 - Wedding Connect (QR Code? Dynamic Code? Password?)
 - Footer/NavBar (Gallery/Upload Pics/Chat/Guest Book)
-- Features:
+- #### Features:
   - Gallery Feature
   - Upload Pics Feature
   - Chat Feature
   - Guest Book 
-- Connect to User Camera
+- #### Connect to User Camera
